@@ -2,6 +2,8 @@
 FileName=./Input/A2Data00_20141102_165129-Rdc.root
 StartTime=2014-11-02 15:36:29
 StopTime=2014-11-02 15:37:48
+Detector=3
+Type=0
 [Data]
 0	9095.79   141.059		inf		4000		0
 1	2419.5   139.777		inf		4000		0
